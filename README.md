@@ -1,0 +1,2 @@
+# elcalc
+Manjaro / Arch Linux
